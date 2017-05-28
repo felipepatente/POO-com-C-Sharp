@@ -1,0 +1,11 @@
+Aula 04 - POO
+
+Jeito de resolber um problema usando orientação a objeto
+Quando é a classe primeiro é chamada de bottom-up
+Quando o programa vem primeiro se chama top-down
+
+na parte de processamento o programa sai dele e vai para outra classe
+
+construtor é o "metodo" que é executado na hora da criação do objeto
+
+para criar um objeto precisa de um construtor

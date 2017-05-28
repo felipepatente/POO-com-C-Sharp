@@ -1,0 +1,5 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Temperaturas\bin\Debug\Temperaturas.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Temperaturas\bin\Debug\Temperaturas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Temperaturas\bin\Debug\Temperaturas.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Temperaturas\obj\Debug\Temperaturas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Temperaturas\obj\Debug\Temperaturas.pdb

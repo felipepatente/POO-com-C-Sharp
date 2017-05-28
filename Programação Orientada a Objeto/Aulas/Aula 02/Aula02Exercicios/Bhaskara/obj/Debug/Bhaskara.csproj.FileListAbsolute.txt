@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Bhaskara\bin\Debug\Bhaskara.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Bhaskara\bin\Debug\Bhaskara.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Bhaskara\bin\Debug\Bhaskara.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Bhaskara\obj\Debug\Bhaskara.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Bhaskara\obj\Debug\Bhaskara.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Bhaskara\obj\Debug\Bhaskara.pdb

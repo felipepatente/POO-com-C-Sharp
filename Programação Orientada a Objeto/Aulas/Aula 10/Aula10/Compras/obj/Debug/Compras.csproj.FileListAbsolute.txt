@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula10\Compras\bin\Debug\Compras.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula10\Compras\bin\Debug\Compras.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula10\Compras\bin\Debug\Compras.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula10\Compras\obj\Debug\Compras.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula10\Compras\obj\Debug\Compras.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula10\Compras\obj\Debug\Compras.pdb

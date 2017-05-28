@@ -1,0 +1,8 @@
+c:\Users\felipe.apatente\documents\visual studio 2015\Projects\Aula02\Tabuleiro3\bin\Debug\Tabuleiro3.exe.config
+c:\Users\felipe.apatente\documents\visual studio 2015\Projects\Aula02\Tabuleiro3\bin\Debug\Tabuleiro3.exe
+c:\Users\felipe.apatente\documents\visual studio 2015\Projects\Aula02\Tabuleiro3\bin\Debug\Tabuleiro3.pdb
+c:\Users\felipe.apatente\documents\visual studio 2015\Projects\Aula02\Tabuleiro3\obj\Debug\Tabuleiro3.exe
+c:\Users\felipe.apatente\documents\visual studio 2015\Projects\Aula02\Tabuleiro3\obj\Debug\Tabuleiro3.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Tabuleiro3\bin\Debug\Tabuleiro3.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Tabuleiro3\obj\Debug\Tabuleiro3.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Tabuleiro3\obj\Debug\Tabuleiro3.pdb

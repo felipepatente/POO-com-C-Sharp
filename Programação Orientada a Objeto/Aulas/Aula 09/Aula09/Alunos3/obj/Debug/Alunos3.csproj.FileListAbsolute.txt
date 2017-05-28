@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula09\Alunos3\bin\Debug\Alunos3.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula09\Alunos3\obj\Debug\Alunos3.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula09\Alunos3\bin\Debug\Alunos3.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula09\Alunos3\bin\Debug\Alunos3.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula09\Alunos3\obj\Debug\Alunos3.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula09\Alunos3\obj\Debug\Alunos3.pdb

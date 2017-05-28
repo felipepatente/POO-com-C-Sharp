@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\IMCs\bin\Debug\IMCs.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\IMCs\bin\Debug\IMCs.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\IMCs\bin\Debug\IMCs.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\IMCs\obj\Debug\IMCs.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\IMCs\obj\Debug\IMCs.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\IMCs\obj\Debug\IMCs.pdb

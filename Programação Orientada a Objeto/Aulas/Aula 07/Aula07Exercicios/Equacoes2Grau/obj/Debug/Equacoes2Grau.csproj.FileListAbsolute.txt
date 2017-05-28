@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula07Exercicios\Equacoes2Grau\bin\Debug\Equacoes2Grau.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula07Exercicios\Equacoes2Grau\bin\Debug\Equacoes2Grau.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula07Exercicios\Equacoes2Grau\bin\Debug\Equacoes2Grau.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula07Exercicios\Equacoes2Grau\obj\Debug\Equacoes2Grau.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula07Exercicios\Equacoes2Grau\obj\Debug\Equacoes2Grau.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula07Exercicios\Equacoes2Grau\obj\Debug\Equacoes2Grau.pdb

@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula13\Operacoes\bin\Debug\Operacoes.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula13\Operacoes\bin\Debug\Operacoes.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula13\Operacoes\bin\Debug\Operacoes.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula13\Operacoes\obj\Debug\Operacoes.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula13\Operacoes\obj\Debug\Operacoes.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula13\Operacoes\obj\Debug\Operacoes.pdb

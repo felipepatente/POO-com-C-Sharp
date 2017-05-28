@@ -1,0 +1,17 @@
+Aula 03 - POO
+
+classe = O que ela tem e o que ela possui
+
+Operador Ternario
+
+aprovado?"passou":"não passou";
+classe é uma Ideia/Modelo/Forma
+
+Em orientação a objeto
+
+   variaveis = atributos (dados/caracteristicas/estado)
+   funções = metodos (algoritmos/comportamento/ações/o que sabe fazer)
+
+
+construtor vazio = contrutor padrão/default
+

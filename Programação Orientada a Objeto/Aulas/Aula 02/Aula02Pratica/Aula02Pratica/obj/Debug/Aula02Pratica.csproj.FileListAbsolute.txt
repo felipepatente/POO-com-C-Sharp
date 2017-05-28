@@ -1,0 +1,6 @@
+c:\users\felipe\documents\visual studio 2015\Projects\Aula02Pratica\Aula02Pratica\bin\Debug\Aula02Pratica.exe.config
+c:\users\felipe\documents\visual studio 2015\Projects\Aula02Pratica\Aula02Pratica\bin\Debug\Aula02Pratica.exe
+c:\users\felipe\documents\visual studio 2015\Projects\Aula02Pratica\Aula02Pratica\bin\Debug\Aula02Pratica.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\Aula02Pratica\Aula02Pratica\obj\Debug\Aula02Pratica.csprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2015\Projects\Aula02Pratica\Aula02Pratica\obj\Debug\Aula02Pratica.exe
+c:\users\felipe\documents\visual studio 2015\Projects\Aula02Pratica\Aula02Pratica\obj\Debug\Aula02Pratica.pdb

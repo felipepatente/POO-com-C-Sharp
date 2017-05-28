@@ -1,0 +1,6 @@
+c:\users\felipe\documents\visual studio 2015\Projects\Aula06\ExercicioTriangulo\bin\Debug\ExercicioTriangulo.exe.config
+c:\users\felipe\documents\visual studio 2015\Projects\Aula06\ExercicioTriangulo\bin\Debug\ExercicioTriangulo.exe
+c:\users\felipe\documents\visual studio 2015\Projects\Aula06\ExercicioTriangulo\bin\Debug\ExercicioTriangulo.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\Aula06\ExercicioTriangulo\obj\Debug\ExercicioTriangulo.csprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2015\Projects\Aula06\ExercicioTriangulo\obj\Debug\ExercicioTriangulo.exe
+c:\users\felipe\documents\visual studio 2015\Projects\Aula06\ExercicioTriangulo\obj\Debug\ExercicioTriangulo.pdb

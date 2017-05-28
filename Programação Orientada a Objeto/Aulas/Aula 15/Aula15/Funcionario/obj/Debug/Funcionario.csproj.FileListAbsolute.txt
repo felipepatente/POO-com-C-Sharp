@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\Funcionario\bin\Debug\Funcionario.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\Funcionario\bin\Debug\Funcionario.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\Funcionario\bin\Debug\Funcionario.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\Funcionario\obj\Debug\Funcionario.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\Funcionario\obj\Debug\Funcionario.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\Funcionario\obj\Debug\Funcionario.pdb

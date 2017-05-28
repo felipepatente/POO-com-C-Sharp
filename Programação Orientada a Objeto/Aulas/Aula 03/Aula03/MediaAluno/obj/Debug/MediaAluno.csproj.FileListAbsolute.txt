@@ -1,0 +1,6 @@
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula03\MediaAluno\bin\Debug\MediaAluno.exe.config
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula03\MediaAluno\bin\Debug\MediaAluno.exe
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula03\MediaAluno\bin\Debug\MediaAluno.pdb
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula03\MediaAluno\obj\Debug\MediaAluno.csprojResolveAssemblyReference.cache
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula03\MediaAluno\obj\Debug\MediaAluno.exe
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula03\MediaAluno\obj\Debug\MediaAluno.pdb

@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\GerenciarAlunos\bin\Debug\GerenciarAlunos.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\GerenciarAlunos\bin\Debug\GerenciarAlunos.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\GerenciarAlunos\bin\Debug\GerenciarAlunos.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\GerenciarAlunos\obj\Debug\GerenciarAlunos.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\GerenciarAlunos\obj\Debug\GerenciarAlunos.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\GerenciarAlunos\obj\Debug\GerenciarAlunos.pdb

@@ -1,0 +1,19 @@
+Aula 08 - POO
+- Linguagem fortamente tipada 
+Vetores : 
+	
+   Conjuntos de variáveis 
+	- Do mesmo tipo
+	- Tamanho fixo
+	- Indexada
+
+
+int[] v;
+v = new int[10];
+
+vetor é uma forma facil de criar varias variaveis
+
+// Lista 
+List<int> l = new List<int>();
+
+

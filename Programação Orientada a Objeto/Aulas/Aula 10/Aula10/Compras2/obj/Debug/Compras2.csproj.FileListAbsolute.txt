@@ -1,0 +1,5 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula10\Compras2\bin\Debug\Compras2.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula10\Compras2\bin\Debug\Compras2.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula10\Compras2\bin\Debug\Compras2.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula10\Compras2\obj\Debug\Compras2.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula10\Compras2\obj\Debug\Compras2.pdb

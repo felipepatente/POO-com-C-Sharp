@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\ContasTelefonicas\bin\Debug\ContasTelefonicas.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\ContasTelefonicas\bin\Debug\ContasTelefonicas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\ContasTelefonicas\bin\Debug\ContasTelefonicas.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\ContasTelefonicas\obj\Debug\ContasTelefonicas.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\ContasTelefonicas\obj\Debug\ContasTelefonicas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\ContasTelefonicas\obj\Debug\ContasTelefonicas.pdb

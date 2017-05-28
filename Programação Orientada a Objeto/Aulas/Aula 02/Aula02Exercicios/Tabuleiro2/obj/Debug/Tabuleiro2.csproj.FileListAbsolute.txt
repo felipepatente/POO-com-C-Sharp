@@ -1,0 +1,5 @@
+c:\Users\felipe.apatente\documents\visual studio 2015\Projects\Aula02\Tabuleiro2\bin\Debug\Tabuleiro2.exe.config
+c:\Users\felipe.apatente\documents\visual studio 2015\Projects\Aula02\Tabuleiro2\bin\Debug\Tabuleiro2.exe
+c:\Users\felipe.apatente\documents\visual studio 2015\Projects\Aula02\Tabuleiro2\bin\Debug\Tabuleiro2.pdb
+c:\Users\felipe.apatente\documents\visual studio 2015\Projects\Aula02\Tabuleiro2\obj\Debug\Tabuleiro2.exe
+c:\Users\felipe.apatente\documents\visual studio 2015\Projects\Aula02\Tabuleiro2\obj\Debug\Tabuleiro2.pdb

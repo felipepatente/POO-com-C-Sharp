@@ -1,0 +1,5 @@
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Invertes\bin\Debug\Invertes.exe.config
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Invertes\bin\Debug\Invertes.exe
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Invertes\bin\Debug\Invertes.pdb
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Invertes\obj\Debug\Invertes.exe
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Invertes\obj\Debug\Invertes.pdb

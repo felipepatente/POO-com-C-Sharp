@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula13\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula13\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula13\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula13\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula13\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula13\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb

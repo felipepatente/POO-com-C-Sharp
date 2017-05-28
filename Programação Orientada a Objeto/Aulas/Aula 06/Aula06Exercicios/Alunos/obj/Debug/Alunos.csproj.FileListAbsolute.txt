@@ -1,0 +1,5 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\Alunos\bin\Debug\Alunos.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\Alunos\bin\Debug\Alunos.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\Alunos\bin\Debug\Alunos.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\Alunos\obj\Debug\Alunos.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\Alunos\obj\Debug\Alunos.pdb

@@ -1,0 +1,6 @@
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Buscas\bin\Debug\Buscas.exe.config
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Buscas\bin\Debug\Buscas.exe
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Buscas\bin\Debug\Buscas.pdb
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Buscas\obj\Debug\Buscas.csprojResolveAssemblyReference.cache
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Buscas\obj\Debug\Buscas.exe
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Buscas\obj\Debug\Buscas.pdb

@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula12\Contas\bin\Debug\Contas.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula12\Contas\bin\Debug\Contas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula12\Contas\bin\Debug\Contas.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula12\Contas\obj\Debug\Contas.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula12\Contas\obj\Debug\Contas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula12\Contas\obj\Debug\Contas.pdb

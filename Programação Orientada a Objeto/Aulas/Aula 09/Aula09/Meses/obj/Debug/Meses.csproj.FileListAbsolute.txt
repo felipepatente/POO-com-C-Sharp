@@ -1,0 +1,9 @@
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Meses\bin\Debug\Meses.exe.config
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Meses\bin\Debug\Meses.exe
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Meses\bin\Debug\Meses.pdb
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Meses\obj\Debug\Meses.csprojResolveAssemblyReference.cache
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Meses\obj\Debug\Meses.exe
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula08\Meses\obj\Debug\Meses.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula09\Meses\bin\Debug\Meses.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula09\Meses\obj\Debug\Meses.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula09\Meses\obj\Debug\Meses.pdb

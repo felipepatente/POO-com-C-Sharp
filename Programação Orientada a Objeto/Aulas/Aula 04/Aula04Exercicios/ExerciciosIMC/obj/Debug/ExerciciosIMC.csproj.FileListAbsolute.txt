@@ -1,0 +1,6 @@
+c:\users\felipe\documents\visual studio 2015\Projects\Aula06\ExerciciosIMC\bin\Debug\ExerciciosIMC.exe.config
+c:\users\felipe\documents\visual studio 2015\Projects\Aula06\ExerciciosIMC\bin\Debug\ExerciciosIMC.exe
+c:\users\felipe\documents\visual studio 2015\Projects\Aula06\ExerciciosIMC\bin\Debug\ExerciciosIMC.pdb
+c:\users\felipe\documents\visual studio 2015\Projects\Aula06\ExerciciosIMC\obj\Debug\ExerciciosIMC.csprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2015\Projects\Aula06\ExerciciosIMC\obj\Debug\ExerciciosIMC.exe
+c:\users\felipe\documents\visual studio 2015\Projects\Aula06\ExerciciosIMC\obj\Debug\ExerciciosIMC.pdb

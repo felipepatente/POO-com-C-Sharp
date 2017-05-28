@@ -1,0 +1,6 @@
+c:\users\ednalva.soliveira\documents\visual studio 2015\Projects\Lampada\Lampada\bin\Debug\Lampada.exe.config
+c:\users\ednalva.soliveira\documents\visual studio 2015\Projects\Lampada\Lampada\bin\Debug\Lampada.exe
+c:\users\ednalva.soliveira\documents\visual studio 2015\Projects\Lampada\Lampada\bin\Debug\Lampada.pdb
+c:\users\ednalva.soliveira\documents\visual studio 2015\Projects\Lampada\Lampada\obj\Debug\Lampada.csprojResolveAssemblyReference.cache
+c:\users\ednalva.soliveira\documents\visual studio 2015\Projects\Lampada\Lampada\obj\Debug\Lampada.exe
+c:\users\ednalva.soliveira\documents\visual studio 2015\Projects\Lampada\Lampada\obj\Debug\Lampada.pdb

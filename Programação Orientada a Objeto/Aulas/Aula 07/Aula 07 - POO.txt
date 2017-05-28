@@ -1,0 +1,25 @@
+Propriedade são Get e Set, mas do lado de fora parece um atributo
+
+Ctrl + r + r = Renomeia o nome
+
+
+public Aluno(string nome, double p1, double p2)
+{
+   this._nome = nome;
+   this._p1 = p1;
+   this._p2 = p2;
+}
+
+public Aluno(string nome)
+{
+   this(nome, 0, 0); // Isso no java
+}
+
+CODING DOJO
+
+Praticas Ageis 
+  - Baby Steps
+  - TDD 
+  - Refactoring
+  - Pair Programming (Programação em pares)
+  - Retrospectiva 

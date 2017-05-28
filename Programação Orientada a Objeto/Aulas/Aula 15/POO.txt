@@ -1,0 +1,15 @@
+Aula 15 - POO
+lista de metodos - interface
+interface só tem metodos abstrato
+herança multipla só com interface
+
+
+interface Etiqueta
+
+string GetLinha();
+
+Para alinhar
+{0, -20}
+
+
+ : IComparer<Funcionario>

@@ -1,0 +1,73 @@
+Console.writeLine("o aluno tem media {0}", media); {0:f1}
+s = Console.ReadLine();
+
+inteiro -> int, long.
+real -> double, decimal($).
+caractere -> String
+Logico -> bool
+
+
+int i = 3;
+long l = 3L;
+double d = 3.0;
+decimal m = 3.0M;
+String s = "3.0";
+bool b = true;
+	 false;
+
+CONVERSÃO
+
+salario = decimal.Parse(Console.ReadLine());
+
+CONVERTER DOUBLE -> DECIMAL
+
+m = Convert.ToDecimal(3.14);
+i = Convert.ToInt32();
+
+Declarar Variavel.
+
+int idade;
+
+Operadores:
+
+Aritméticos: + - * / %
+
+Relacionas: < <= > >= == !=
+
+Logicos: && || !
+
+String: + 
+
+Unarios: + ++ - --
+	int a = 10;
+	Console.Write(-a)
+
+Atribuição: = 
+	a = a + 2 -> a+=2
+
+FUNÇOES:
+
+Math.Sqrt()
+Math.Pow(x,y); -> x¹
+
+if(){
+} else {
+}
+
+switch (a) {
+
+case 0: 
+break
+default:
+break
+
+
+Vetor int [] v = new int[10];
+matriz int[,] v = new int[3,3];
+
+Gerar números aleatorios.
+
+Random rng=new Randon();
+rng.Next(10); 0 - 9.
+
+matriz int[,] m = new int[3,3]; 

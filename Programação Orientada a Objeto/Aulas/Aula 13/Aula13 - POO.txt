@@ -1,0 +1,7 @@
+Aula 13 - POO
+
+polimorfismo
+virtual - classe base
+override - classe derivada
+
+string.Format()

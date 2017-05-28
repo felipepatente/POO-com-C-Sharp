@@ -1,0 +1,79 @@
+Objetivo:
+-> TDD (Test Diren Development)
+-> TFD (Test First Design)
+->O.O.
+
+C# ferramenta
+
+#fica a dica
+
+podcast 
+    - Hipsters
+    - Dev na estrada
+
+
+Tópicos
+    - C#
+    - Classes, atributos, metodos, objetos e mensagens
+    - Construtores
+    - Namespaces
+    - Referências
+    - Modificadores de Acessos (encapsulamento)
+    - Propriedades (C#)
+    - Sobrecarga de métodos e construtores
+    - Associação entre classes
+	- Composição
+	- Herança
+    - Polimorfismo
+    - Classes Abstratas	
+    - Interfaces
+    - Tratamento de erros(exeptions) 
+    - UML
+    - Principios SOLID
+    - Git -> GitHub
+    - Coding Dojo
+
+Avaliação:
+   - NE = Exercicios / n
+   - NP = P1 + P2 / 2
+   - 30% NE + 70% NP
+
+Bibliografia
+   - Deitel (C# como programar)	
+   - C# Use a cabeça
+   - www.ramon.pro.br -> Disciplinas -> Tabelas
+	- Apostilas sobre O.O.
+	- www.entendaprogramacao.com.br
+
+
+PARADIGMAS DE PROGRAMAÇÃO
+
+1 - Não-estruturado
+  - Fluxograma
+
+Ex:Escreva um algoritmo que lê duas notas de um alunos mostra a média.
+
+Entrada -> Processamento -> Saída
+
+Tipos de estrutura
+   - Sequêncial
+   - Condicional
+   - Repetição                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+
+de não estruturada para estruturada ganha clareza no código
+
+não estruturada
+   - BASIC (Mais ou Menos)
+   - ASSEMBLY
+
+Clean Code (código limpo) -> dicas de nomes de variaveis e funções
+
+A função é um mecanismo de encapsulamento
+
+
+1 - Não-estruturada
+2 - Estruturada
+3 - Procedimental
+4 - Orientação a Objeto
+

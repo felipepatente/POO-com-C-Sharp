@@ -1,0 +1,5 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\Fatoriais\bin\Debug\Fatoriais.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\Fatoriais\bin\Debug\Fatoriais.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\Fatoriais\bin\Debug\Fatoriais.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\Fatoriais\obj\Debug\Fatoriais.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\Fatoriais\obj\Debug\Fatoriais.pdb

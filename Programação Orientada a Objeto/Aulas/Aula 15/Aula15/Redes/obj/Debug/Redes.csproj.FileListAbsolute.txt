@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\Redes\bin\Debug\Redes.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\Redes\bin\Debug\Redes.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\Redes\bin\Debug\Redes.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\Redes\obj\Debug\Redes.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\Redes\obj\Debug\Redes.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula15\Redes\obj\Debug\Redes.pdb

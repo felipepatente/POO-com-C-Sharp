@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula05Pratica\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula05Pratica\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula05Pratica\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula05Pratica\ConsoleApplication1\obj\Debug\Triangulos.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula05Pratica\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula05Pratica\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

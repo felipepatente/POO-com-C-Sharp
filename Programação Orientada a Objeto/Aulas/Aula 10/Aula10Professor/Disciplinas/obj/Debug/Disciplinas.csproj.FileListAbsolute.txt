@@ -1,0 +1,2 @@
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula10Professor\Disciplinas\bin\Debug\Disciplinas.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula10Professor\Disciplinas\bin\Debug\Disciplinas.exe.config

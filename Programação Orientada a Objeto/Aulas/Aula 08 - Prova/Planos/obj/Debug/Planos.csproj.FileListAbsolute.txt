@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Planos\bin\Debug\Planos.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Planos\bin\Debug\Planos.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Planos\bin\Debug\Planos.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Planos\obj\Debug\Planos.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Planos\obj\Debug\Planos.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Planos\obj\Debug\Planos.pdb

@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Salarios\bin\Debug\Salarios.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Salarios\bin\Debug\Salarios.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Salarios\bin\Debug\Salarios.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Salarios\obj\Debug\Salarios.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Salarios\obj\Debug\Salarios.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Salarios\obj\Debug\Salarios.pdb

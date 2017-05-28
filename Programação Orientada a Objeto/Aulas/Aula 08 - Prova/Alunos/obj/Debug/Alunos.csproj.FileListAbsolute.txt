@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Alunos\bin\Debug\Alunos.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Alunos\bin\Debug\Alunos.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Alunos\bin\Debug\Alunos.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Alunos\obj\Debug\Alunos.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Alunos\obj\Debug\Alunos.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\Alunos\obj\Debug\Alunos.pdb

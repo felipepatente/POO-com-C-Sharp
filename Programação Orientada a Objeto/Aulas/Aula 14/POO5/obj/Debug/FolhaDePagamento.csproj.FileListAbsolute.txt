@@ -1,0 +1,6 @@
+c:\users\juliana.lglucas\documents\visual studio 2015\Projects\POO5\POO5\bin\Debug\POO5.exe.config
+c:\users\juliana.lglucas\documents\visual studio 2015\Projects\POO5\POO5\bin\Debug\POO5.exe
+c:\users\juliana.lglucas\documents\visual studio 2015\Projects\POO5\POO5\bin\Debug\POO5.pdb
+c:\users\juliana.lglucas\documents\visual studio 2015\Projects\POO5\POO5\obj\Debug\FolhaDePagamento.csprojResolveAssemblyReference.cache
+c:\users\juliana.lglucas\documents\visual studio 2015\Projects\POO5\POO5\obj\Debug\POO5.exe
+c:\users\juliana.lglucas\documents\visual studio 2015\Projects\POO5\POO5\obj\Debug\POO5.pdb

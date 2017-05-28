@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Adivinha\bin\Debug\Adivinha.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Adivinha\bin\Debug\Adivinha.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Adivinha\bin\Debug\Adivinha.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Adivinha\obj\Debug\Adivinha.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Adivinha\obj\Debug\Adivinha.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\Adivinha\obj\Debug\Adivinha.pdb

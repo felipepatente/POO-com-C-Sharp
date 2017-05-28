@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaAluno", "MediaAluno\MediaAluno.csproj", "{B595308E-E2A2-4220-83DF-06E17348A28D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecutarBhaskara", "ExecutarBhaskara\ExecutarBhaskara.csproj", "{0E4E57FA-5F38-46F4-BF5A-F6171D007858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bhaskaraa", "Bhaskaraa\Bhaskaraa.csproj", "{42D1B1A0-0C76-42B8-BF92-0D39D3C4F47F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B595308E-E2A2-4220-83DF-06E17348A28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B595308E-E2A2-4220-83DF-06E17348A28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B595308E-E2A2-4220-83DF-06E17348A28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B595308E-E2A2-4220-83DF-06E17348A28D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E4E57FA-5F38-46F4-BF5A-F6171D007858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4E57FA-5F38-46F4-BF5A-F6171D007858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4E57FA-5F38-46F4-BF5A-F6171D007858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4E57FA-5F38-46F4-BF5A-F6171D007858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D1B1A0-0C76-42B8-BF92-0D39D3C4F47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D1B1A0-0C76-42B8-BF92-0D39D3C4F47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D1B1A0-0C76-42B8-BF92-0D39D3C4F47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D1B1A0-0C76-42B8-BF92-0D39D3C4F47F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

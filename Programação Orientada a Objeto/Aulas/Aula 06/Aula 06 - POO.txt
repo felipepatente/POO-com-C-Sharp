@@ -1,0 +1,16 @@
+Aula 06 - POO
+
+Tópicos da prova:
+ - Paradigmias de programação
+ - Classes, atributos, métodos, objetos e mensagens (classe é um mecanismo) (objeto é uma materialização da classe)
+ - Construtores
+ - Referências
+ - Encapsulamento (private) / (propriedades)
+ - Sobrecarga
+
+toda classe cuida da sua integridade
+metodos modificadores (public, private, protected) e metodos acessores (set and get)
+
+metodo de negocios (não altera/pega valores dos atributos)
+
+propriedade é um metodo que parece atributo

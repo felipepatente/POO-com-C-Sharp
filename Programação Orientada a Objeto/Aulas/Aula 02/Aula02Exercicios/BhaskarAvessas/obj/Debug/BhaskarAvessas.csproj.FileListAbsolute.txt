@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\BhaskarAvessas\bin\Debug\BhaskarAvessas.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\BhaskarAvessas\bin\Debug\BhaskarAvessas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\BhaskarAvessas\bin\Debug\BhaskarAvessas.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\BhaskarAvessas\obj\Debug\BhaskarAvessas.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\BhaskarAvessas\obj\Debug\BhaskarAvessas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula02\BhaskarAvessas\obj\Debug\BhaskarAvessas.pdb

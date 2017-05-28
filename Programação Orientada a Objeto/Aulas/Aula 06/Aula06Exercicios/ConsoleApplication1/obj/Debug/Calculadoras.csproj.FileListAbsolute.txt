@@ -1,0 +1,12 @@
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula06Exercicios\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula06Exercicios\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula06Exercicios\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula06Exercicios\ConsoleApplication1\obj\Debug\Calculadoras.csprojResolveAssemblyReference.cache
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula06Exercicios\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\felipe.apatente\documents\visual studio 2015\Projects\Aula06Exercicios\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Felipe\Documents\Conteudos de Faculdades\Banco de Dados\3° Semestre\Programação Orientada a Objeto\Aulas\Aula 06\Aula06Exercicios\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Felipe\Documents\Conteudos de Faculdades\Banco de Dados\3° Semestre\Programação Orientada a Objeto\Aulas\Aula 06\Aula06Exercicios\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Felipe\Documents\Conteudos de Faculdades\Banco de Dados\3° Semestre\Programação Orientada a Objeto\Aulas\Aula 06\Aula06Exercicios\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

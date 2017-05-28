@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\JogoVelhas\bin\Debug\JogoVelhas.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\JogoVelhas\bin\Debug\JogoVelhas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\JogoVelhas\bin\Debug\JogoVelhas.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\JogoVelhas\obj\Debug\JogoVelhas.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\JogoVelhas\obj\Debug\JogoVelhas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula08Prova\JogoVelhas\obj\Debug\JogoVelhas.pdb

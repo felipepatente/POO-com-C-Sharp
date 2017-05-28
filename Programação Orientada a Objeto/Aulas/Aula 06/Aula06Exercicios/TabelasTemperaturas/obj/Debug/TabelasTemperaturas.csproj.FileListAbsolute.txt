@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\TabelasTemperaturas\bin\Debug\TabelasTemperaturas.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\TabelasTemperaturas\bin\Debug\TabelasTemperaturas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\TabelasTemperaturas\bin\Debug\TabelasTemperaturas.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\TabelasTemperaturas\obj\Debug\TabelasTemperaturas.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\TabelasTemperaturas\obj\Debug\TabelasTemperaturas.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Aula06Exercicios\TabelasTemperaturas\obj\Debug\TabelasTemperaturas.pdb
