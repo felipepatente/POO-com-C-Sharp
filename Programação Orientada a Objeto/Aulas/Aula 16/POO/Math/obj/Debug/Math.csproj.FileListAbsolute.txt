@@ -1,0 +1,6 @@
+C:\Users\luciano.mlima1\Desktop\Heranca\POO\Math\bin\Debug\Math.exe.config
+C:\Users\luciano.mlima1\Desktop\Heranca\POO\Math\bin\Debug\Math.exe
+C:\Users\luciano.mlima1\Desktop\Heranca\POO\Math\bin\Debug\Math.pdb
+C:\Users\luciano.mlima1\Desktop\Heranca\POO\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
+C:\Users\luciano.mlima1\Desktop\Heranca\POO\Math\obj\Debug\Math.exe
+C:\Users\luciano.mlima1\Desktop\Heranca\POO\Math\obj\Debug\Math.pdb

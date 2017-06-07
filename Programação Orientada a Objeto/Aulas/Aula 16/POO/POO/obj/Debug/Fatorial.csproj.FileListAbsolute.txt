@@ -1,0 +1,6 @@
+C:\Users\luciano.mlima1\Desktop\Heranca\POO\POO\bin\Debug\POO.exe.config
+C:\Users\luciano.mlima1\Desktop\Heranca\POO\POO\bin\Debug\POO.exe
+C:\Users\luciano.mlima1\Desktop\Heranca\POO\POO\bin\Debug\POO.pdb
+C:\Users\luciano.mlima1\Desktop\Heranca\POO\POO\obj\Debug\Fatorial.csprojResolveAssemblyReference.cache
+C:\Users\luciano.mlima1\Desktop\Heranca\POO\POO\obj\Debug\POO.exe
+C:\Users\luciano.mlima1\Desktop\Heranca\POO\POO\obj\Debug\POO.pdb
